@@ -20,15 +20,47 @@
   font-style: italic;
 }
 
-.para {
+.right {
   float: right;
-  width: 675px;
+
+}
+.para {
+  /*float: right;*/
+
+  width: 676px;
   color: #FF00CD;
   background: rgba(253, 254, 254, 0.5);
   border-radius: 20px;
   padding-right: 10px;
+  margin-bottom: 20px;
+  position: relative;
+
+}
+
+.para2 {
+  /*float: right;*/
+  width: 676px;
+  background: rgba(253, 254, 254, 0.5);
+  border-radius: 20px;
+  padding-right: 10px;
+  padding-left: -10px;
 
 
+}
+
+.header3 {
+  font-size: 40px;
+  color: #934C00;
+  text-shadow: 1px 1px 2px white;
+
+}
+.cake {
+  width: 500px;
+  height: 350px;
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/8f/20/5a/8f205a498e2fdff2df6680c40a7e1e6b.jpg");
+  background-size: cover;
+  border-radius: 15px;
+  margin-left: 88px;
 }
 
 body {
