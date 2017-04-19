@@ -1,0 +1,36 @@
+* {
+  text-align: right;
+  font-family: fantasy;
+
+}
+.header1 {
+  font-size: 80px;
+  color: #FF00CD;
+  text-shadow: 1px 1px 2px #03C1F0;
+}
+
+.header2 {
+  font-size: 30px;
+  color: #FF00CD;
+  text-shadow: 1px 1px 2px #03C1F0;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.para {
+  float: right;
+  width: 675px;
+  color: #FF00CD;
+  background: rgba(253, 254, 254, 0.5);
+  border-radius: 20px;
+  padding-right: 10px;
+
+
+}
+
+body {
+  background-image: url("http://wallpapercave.com/wp/O9EYXVv.jpg");
+}
